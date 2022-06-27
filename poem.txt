@@ -1,4 +1,4 @@
-Poem color
+Poem: Rainow & Unicorn
 
 Red
 Green
@@ -6,4 +6,5 @@ Blue
 Yellow
 Purple
 
-RGBYP
+Thses are the colors of the rainbow
+And the unicorn
