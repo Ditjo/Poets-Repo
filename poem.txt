@@ -3,5 +3,6 @@ Poem color
 Red
 Green
 Blue
+Yellow
 
-RGB
+RGBY
